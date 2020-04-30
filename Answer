@@ -1,6 +1,6 @@
 stdict.korean.go.kr
 
-
+headword = lang(kor, information)
 
 
 definition(5, letter = 7)
