@@ -1,6 +1,6 @@
 stdict.korean.go.kr
 
-headword = lang(kor, information)
+headword = "정보"
 
 
 definition(5, letter = 7)
