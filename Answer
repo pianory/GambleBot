@@ -3,7 +3,7 @@ stdict.korean.go.kr
 headword = "정보"
 
 
-definition(5, letter = 7) = 
+definition(5, letter = 7) = definition(6, letter = 6)
 definition(4, letter = 2)
 definition(2, letter = 16)
 definition(7, letter = 3)
